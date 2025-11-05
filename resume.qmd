@@ -1,0 +1,9 @@
+---
+title: "My Resume"
+---
+
+About this site
+
+{{< pdf media/Vidal_Resume_25.pdf >}}
+
+![](media/Vidal_Resume_25.pdf){width=100% height=800}

@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "TallenVidal1.github.io",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Resume",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n{{&lt; pdf media/Vidal_Resume_25.pdf &gt;}}"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RAGGGHHHH",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Personal Statistics\nlink\nYo! My name is Tallen Vidal and I am a sophomore at Chaminade University of Honolulu. I am pursuing a double major in Data Science, Analytics, and Visualization (DSAV) and Computer Science (CS). I hope to graduate by May 2028. My hobbies are swimming, going to the gym, reading, and excessive self-talk (mild schizophrenia).\nHeight: 5’7\nWeight: 150 lbs / 68 kg\nHair color: Brown\nEthnicity: Japanese, Filipino, White\nZodiac Sign: Leo"
+  },
+  {
+    "objectID": "projects.html#sdg-analytics-in-r-honolulu-hi",
+    "href": "projects.html#sdg-analytics-in-r-honolulu-hi",
+    "title": "My Projects",
+    "section": "SDG Analytics in R, Honolulu, HI:",
+    "text": "SDG Analytics in R, Honolulu, HI:\n\nRepository Link{target=” _blank”}\nScholarship Participant, 01/2025 - 02/2025\n\nOffered a full scholarship to participate in a United Nations institute for Training and Research (UNITAR) certificate course focused on reproducible data analysis of the United Nations Sustainable Development Goals (SDG’s).\nUsing data collected on each of the Sustainable Development Goals through the Sustainable Development Report, our objective is to use Rstudio, the R coding language, to analyze the data from the report.\nAt the end of the project, we will present our data analysis with visualizations created in R to display our findings and observations about the progress of a select few SDG’s and how we interpret our findings."
   }
 ]

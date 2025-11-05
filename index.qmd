@@ -1,11 +1,33 @@
 ---
-title: "TallenVidal1.github.io"
+title: "RAGGGHHHH"
+image: media/IMG_0507.JPG
+toc: false
+about:
+  template: trestles
+  links: 
+    - icon: github
+      href: https://github.com/TallenVidal1
+      target: blank
+    - text: Email
+      icon: envelope
+      href: tallen.vidal@student.chaminade.edu
+    - icon: instagram
+      href: https://www.instagram.com/tallen_vital/
+      target: blank
 ---
 
-This is a Quarto website.
+# Personal Statistics
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+link
 
-```{r}
-1 + 1
-```
+Yo! My name is Tallen Vidal and I am a sophomore at Chaminade University of Honolulu. I am pursuing a double major in Data Science, Analytics, and Visualization (DSAV) and Computer Science (CS). I hope to graduate by May 2028. My hobbies are swimming, going to the gym, reading, and excessive self-talk (mild schizophrenia).
+
+Height: 5'7
+
+Weight: 150 lbs / 68 kg
+
+Hair color: Brown
+
+Ethnicity: Japanese, Filipino, White
+
+Zodiac Sign: Leo

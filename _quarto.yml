@@ -3,18 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "TallenVidal1.github.io"
+  title: "Tallen Vidal"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - resume.qmd
+      - projects.qmd
+    right: 
+      - icon: github
+        href: https://github.com/TallenVidal1
+        target: blank
+      
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: pulse
+    #  dark: pulse
     css: styles.css
     toc: true
 
