@@ -10,7 +10,7 @@ website:
         text: Home
       - resume.qmd
       - projects.qmd
-      - text: Dashboard
+      - text: Dashboards
         href: https://tallenvidal1.github.io/Dashboards/
         target: blank
     right: 
