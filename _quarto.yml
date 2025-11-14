@@ -10,9 +10,9 @@ website:
         text: Home
       - resume.qmd
       - projects.qmd
-      - href: https://tallenvidal1.github.io/Dashboards/
-      - text: Dashboards
-      - target: blank
+      - text: Dashboard
+        href: https://tallenvidal1.github.io/Dashboards/
+        target: blank
     right: 
       - icon: github
         href: https://github.com/TallenVidal1
