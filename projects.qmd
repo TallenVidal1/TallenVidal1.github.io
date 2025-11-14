@@ -9,7 +9,7 @@ format: html
 
 ## SDG Analytics in R, Honolulu, HI:
 
--   [Repository Link](https://github.com/NSF-ALL-SPICE-Alliance/sdg-assignments-TallenVidal1){target=" _blank"}
+-   [Repository Link](https://github.com/NSF-ALL-SPICE-Alliance/sdg-assignments-TallenVidal1)
 -   Scholarship Participant, 01/2025 - 02/2025
     -   Offered a full scholarship to participate in a United Nations institute for Training and Research (UNITAR) certificate course focused on reproducible data analysis of the United Nations Sustainable Development Goals (SDG’s).
     -   Using data collected on each of the Sustainable Development Goals through the Sustainable Development Report, our objective is to use Rstudio, the R coding language, to analyze the data from the report.

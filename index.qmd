@@ -1,5 +1,5 @@
 ---
-title: "RAGGGHHHH"
+title: "Mr. Tallen Vidal"
 image: media/IMG_0507.JPG
 toc: false
 about:
@@ -18,9 +18,7 @@ about:
 
 # Personal Statistics
 
-link
-
-Yo! My name is Tallen Vidal and I am a sophomore at Chaminade University of Honolulu. I am pursuing a double major in Data Science, Analytics, and Visualization (DSAV) and Computer Science (CS). I hope to graduate by May 2028. My hobbies are swimming, going to the gym, reading, and excessive self-talk (mild schizophrenia).
+Hi! My name is Tallen Vidal and I am a sophomore at Chaminade University of Honolulu. I am pursuing a double major in Data Science, Analytics, and Visualization (DSAV) and Computer Science (CS). I hope to graduate by May 2028. My hobbies are swimming, going to the gym, reading, and excessive self-talk.
 
 Height: 5'7
 
@@ -31,3 +29,5 @@ Hair color: Brown
 Ethnicity: Japanese, Filipino, White
 
 Zodiac Sign: Leo
+
+Age: 19 (Sophomore in College)
